@@ -6,5 +6,9 @@
     "pt": {
         "greeting": "Olá, Mundo!",
         "farewell": "Adeus, Mundo!"
+    }, 
+    "fr": {
+        "greeting": "Bonjour, monde!",
+        "farewell": "Adieu!"
     }
 }
