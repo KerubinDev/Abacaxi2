@@ -10,5 +10,28 @@
     "fr": {
         "greeting": "Bonjour, monde!",
         "farewell": "Adieu!"
-    }
+    }, "es": {
+    "greeting": "¡Hola, mundo!",
+    "farewell": "¡Adiós!"
+},
+"de": {
+    "greeting": "Hallo, Welt!",
+    "farewell": "Auf Wiedersehen!"
+},
+"it": {
+    "greeting": "Ciao, mondo!",
+    "farewell": "Addio!"
+},
+"ja": {
+    "greeting": "こんにちは、世界！",
+    "farewell": "さようなら！"
+},
+"zh": {
+    "greeting": "你好，世界！",
+    "farewell": "再见！"
+},
+"ru": {
+    "greeting": "Привет, мир!",
+    "farewell": "До свидания!"
+}
 }
