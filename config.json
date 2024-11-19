@@ -33,5 +33,13 @@
 "ru": {
     "greeting": "Привет, мир!",
     "farewell": "До свидания!"
+}, 
+    "zb": {
+    "greeting": "Zorba nox!",
+    "farewell": "Lunex vora!"
+}, 
+    "el": {
+    "greeting": "Mae govannen!",
+    "farewell": "Navaer!"
 }
 }
